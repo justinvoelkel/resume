@@ -1,0 +1,8 @@
+{
+  "name":"justinvoelkel/resume",
+  "description":"My online resume that can be viewed at it's github repo as the readme markdown or parsed on my website.",
+  "version":"0.1.0",
+  "require": {
+    "cebe/markdown": "^1.1"
+  }
+}
