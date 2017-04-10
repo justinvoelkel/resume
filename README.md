@@ -2,6 +2,7 @@
 ## Senior Full Stack Engineer
 <hr/>
 ## Contact Info
+
 **email: [me@justinvoelkel.com](mailto:me@justinvoelkel.com)**
 
 **phone: (440)289-6190**
