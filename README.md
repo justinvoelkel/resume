@@ -1,7 +1,6 @@
 # Justin Voelkel
 ## Senior Full Stack Engineer
-<hr/>
-## Contact Info
+### Contact Info
 
 **email: [me@justinvoelkel.com](mailto:me@justinvoelkel.com)**
 
@@ -13,7 +12,7 @@
 [LinkedIn](http://www.linkedin.com/pub/justin-voelkel/17/2b8/97b) | 
 [Team Treehouse](https://teamtreehouse.com/justinvoelkel)
 
-## My Tools
+### My Tools
 Languages | Libraries | Frameworks | Concepts
 --------- | --------- | ---------- | ---------
 * PHP     |           |            |
