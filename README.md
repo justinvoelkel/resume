@@ -1,4 +1,5 @@
 # Justin Voelkel
+![justin voelkel](http://clevelandcodeworks.com/img/justinv.png)
 ## Senior Full Stack Engineer
 ### Contact Info
 
@@ -12,11 +13,11 @@
 [LinkedIn](http://www.linkedin.com/pub/justin-voelkel/17/2b8/97b) | 
 [Team Treehouse](https://teamtreehouse.com/justinvoelkel)
 
-### My Tools
-Languages | Libraries | Frameworks | Concepts
+### Things I Use
+Languages | Frameworks | Tools | Concepts
 --------- | --------- | ---------- | ---------
-* PHP     |           |            |
-* Javascript ES5/ES6 |       |       |
-* HTML5 |   |   |
+* PHP     | Laravel (4+) |            |
+* Javascript ES5/ES6 | AngularJS (1.x) |       |
+* HTML5 | Zurb Foundation (4+) |   |
 * CSS3 |   |   |
 * SaSS |   |   |
