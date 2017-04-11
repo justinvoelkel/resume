@@ -20,7 +20,7 @@ Languages | Frameworks | Tools | Concepts / Patterns
 PHP | Laravel (4+) | Docker | MVC
 Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST
 HTML5 | Zurb Foundation (4+) | Redis | SOA
-CSS3 |  | Git | LAMP Stack
+CSS3 |  | Git | API Design
   |  | PHPunit | Testing
-  |  |  | Gulp / Grunt | Server Provisioning
+  |  |  | Gulp / Grunt | LAMP Stack
   |  |  | Sass | Website Speed Optimization
