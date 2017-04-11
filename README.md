@@ -22,5 +22,5 @@ Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST
 HTML5 | Zurb Foundation (4+) | Redis | SOA
 CSS3 |  | Git | API Design
   |  | PHPunit | Testing
-  |  |  | Gulp / Grunt | LAMP Stack
-  |  |  | Sass | Website Speed Optimization
+  |  | Gulp/Grunt | LAMP Stack
+  |  | Sass | Website Speed Optimization
