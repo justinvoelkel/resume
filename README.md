@@ -21,6 +21,6 @@ PHP | Laravel (4+) | Docker | MVC
 Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST
 HTML5 | Zurb Foundation (4+) | Redis | SOA
 CSS3 |  | Git | LAMP Stack
-  |  | PHPunit | Testing / TDD
+  |  | PHPunit | Testing
   |  |  | Gulp / Grunt | Server Provisioning
   |  |  | Sass | Website Speed Optimization
