@@ -15,7 +15,7 @@
 <hr/>
 
 ### Things I Use
-Languages | Frameworks | Tools | Concepts / Patterns
+Languages | Frameworks | Tools | Concepts/Patterns
 --------- | --------- | ---------- | ---------
 PHP | Laravel (4+) | Docker | MVC
 Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST
