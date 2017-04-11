@@ -15,10 +15,10 @@
 <hr/>
 
 ### Things I Use
-Languages | Frameworks | Tools | Concepts
+Languages | Frameworks | Tools | Concepts / Patterns
 --------- | --------- | ---------- | ---------
-PHP | Laravel (4+) |  |
-Javascript ES5/ES6 | AngularJS (1.x) |  |
-HTML5 | Zurb Foundation (4+) |  |
-CSS3 |  |  |
-SaSS |  |  |
+PHP | Laravel (4+) | Docker | MVC
+Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST
+HTML5 | Zurb Foundation (4+) | Git | SOA
+CSS3 |  | PHP Storm |
+SaSS |  | Sublime Text |
