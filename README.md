@@ -30,10 +30,11 @@ Languages | Frameworks | Tools | Concepts/Patterns
 PHP | Laravel (4+) | Docker | MVC 
 Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST 
 HTML5 | Slim (2/3) | Redis | SOA 
-CSS3 | Zurb Foundation (4+) | Git | API Design 
- . | Bootstrap (3+) | PHPUnit | Testing 
- . | . | Gulp/Grunt | LAMP Stack 
- . | . | Sass | Website Speed Optimization
+CSS3 | Zurb Foundation (4+) | Phinx | API Design 
+ . | Bootstrap (3+) | Git | Testing 
+ . | . | PHPUnit | LAMP Stack 
+ . | . | Gulp/Grunt | Website Speed Optimization
+ . | . | Sass | .
  
  <hr/>
  
