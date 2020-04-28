@@ -15,34 +15,83 @@
 <hr/>
 
 ### About Me
-I've been working professionally as a developer since 2009. I started as a front-end developer focused mainly on writing
-quality HTML, CSS, and Javascript. I shifted to a PHP/application focused position in 2013. Since that time I have been primarily
-focused on building and maintaining web applications built with PHP and Javascript.
-
-I love learning and building new things. I believe that continual learning and knowledge transfer are core principles that define
-good developers and make for good development teams. I enjoy blogging, speaking, and presenting on new technology and development techniques to share the things I've learned.
-I am dedicated to writing better software today than I did yesterday and am always open to review and constructive feedback.
-
+Building effective and transformational software is my passion. I believe that leading by example, habitual continual learning, and knowledge transfer are core principles that define great developers and make for great development teams. I enjoy reading, blogging, and presenting on new technology as well as other development related subjects. I am always appreciative of thoughtful and constructive feedback from my peers and co-workers - it is hard to improve without it.
 
 ### My Toolbox
-Languages | Frameworks | Tools | Concepts/Patterns
---------- | --------- | ---------- | ---------
-PHP | Laravel (4+) | Docker | MVC 
-Javascript ES5/ES6 | AngularJS (1.x) | Vagrant | REST 
-HTML5 | Slim (2/3) | Redis | SOA 
-CSS3 | Zurb Foundation (4+) | Phinx | API Design 
- . | Bootstrap (3+) | Git | Testing 
- . | . | PHPUnit | LAMP Stack 
- . | . | Gulp/Grunt | Website Speed Optimization
- . | . | Sass | .
+
+**Languages**
+- PHP
+- Python
+- Javascript
+- HTML/CSS/Sass
+- Rust (for fun)
+
+**Databases/Stores**
+- Postgres
+  - PostGIS
+- MySQL
+- MongoDB
+- Redis
+
+**Frameworks**
+- Vue (js)
+- Slim (PHP)
+- Tornado (Python)
+- Angular 1.x (js)
+- React (js)
+- Express (node)
+- Materialize
+- Foundation
+- Bulma
+- Bootstrap
+
+**Tools**
+- Git
+- Docker
+- AWS
+- Azure
+- Circle CI
+- Emacs _(yes, Vim is also fine...)_
  
- <hr/>
+<hr/>
  
 ### Work History
 
-**Senior Full Stack Engineer** | [Budget Dumpster](http://www.budgetdumpster.com/) / [Dumpsters.com](https://www.dumpsters.com/)
+**Senior Software Engineer** | [Axuall Inc.](https://www.axuall.com)
+***core technologies: Python, Javascript, Tornado (framework), Vue (framework)***
 
-_May 2012 - present_
+_January 2020 - Present_
+
+I work as a part of the core engineering team. My responsibilities include:
+- Suggesting and implementing enhancements to the existing platform
+- Scoping and documenting tasks and suggested solutions
+- Setting up error tracking for all portions of the platform and running a weekly touchpoint meeting
+- Code reviews / pair programming
+- Suggesting process improvements and ways to build internal efficiencies
+- Taking part candidate screenings and conducting technical interviews
+- Deploys and testing
+
+**Project Lead Engineer Strategic Technologies**
+***core technologies: Javascript, PHP, Vue (framework), Slim (framework)***
+
+_February 2018 - December 2019_ | [Budget Dumpster](https://www.budgetdumpster.com/) / [Dumpsters.com](https://www.dumpsters.com/)
+
+In February of 2018 I took on additional responsibilities within our newly created Strategic Technologies team. In addition to active development on projects I am also responsible for:
+- Information gathering for new internal technology initiatives -- generating user profiles and outlining personas
+- Conducting user interviews to document pain points and understand application interaction.
+- Creating project release plans based on information gathering and functional user stories
+- Agile sprint planning and management
+- Leading sprint planning and review sessions with ownership and other stakeholders
+- Task generation, group estimations, and delegation of work
+- Working with project owners and stakeholders to understand business objectives and provide technical solutions to help achieve those objectives.
+- Create technical documentation to accompany technical initiatives (written and video)
+- Organize and plan a monthly developer symposium and other team activities
+- Participate in the interview and hiring process
+
+**Senior Full Stack Engineer** | [Budget Dumpster](http://www.budgetdumpster.com/) / [Dumpsters.com](https://www.dumpsters.com/)
+***core technologies: HTML/CSS, Javascript, PHP, Angular 1.x (framework), Laravel 4 (framework)***
+
+_May 2012 - February 2018_
 
 I create custom software solutions to meet our business needs and support our team in the creation and maintenance of all company operated websites.
 
@@ -59,6 +108,7 @@ I create custom software solutions to meet our business needs and support our te
 * Created iOS/Android phone app prototypes with PhoneGap
 
 **Web Developer** | CB Software Systems
+**core technologies: HTML/CSS, Javascript, jQuery (library), Wordpress***
 
 _July 2009 - May 2012_
 
