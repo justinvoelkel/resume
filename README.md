@@ -8,10 +8,10 @@
 **phone: (440)289-6190**
 
 **Important links:**
-[My Blog](http://justinvoelkel.me) | 
 [GitHub](https://github.com/justinvoelkel) | 
 [LinkedIn](http://www.linkedin.com/pub/justin-voelkel/17/2b8/97b) | 
-[Team Treehouse](https://teamtreehouse.com/justinvoelkel)
+[Team Treehouse](https://teamtreehouse.com/justinvoelkel) |
+[My Blog](http://justinvoelkel.me)
 <hr/>
 
 ### About Me
