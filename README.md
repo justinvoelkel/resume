@@ -58,6 +58,7 @@ Building effective and transformational software is my passion. I believe that l
 ### Work History
 
 **Senior Software Engineer** | [Axuall Inc.](https://www.axuall.com)
+
 ***core technologies: Python, Javascript, Tornado (framework), Vue (framework)***
 
 _January 2020 - Present_
@@ -72,6 +73,7 @@ I work as a part of the core engineering team. My responsibilities include:
 - Deploys and testing
 
 **Project Lead Engineer Strategic Technologies**
+
 ***core technologies: Javascript, PHP, Vue (framework), Slim (framework)***
 
 _February 2018 - December 2019_ | [Budget Dumpster](https://www.budgetdumpster.com/) / [Dumpsters.com](https://www.dumpsters.com/)
@@ -89,6 +91,7 @@ In February of 2018 I took on additional responsibilities within our newly creat
 - Participate in the interview and hiring process
 
 **Senior Full Stack Engineer** | [Budget Dumpster](http://www.budgetdumpster.com/) / [Dumpsters.com](https://www.dumpsters.com/)
+
 ***core technologies: HTML/CSS, Javascript, PHP, Angular 1.x (framework), Laravel 4 (framework)***
 
 _May 2012 - February 2018_
@@ -108,7 +111,8 @@ I create custom software solutions to meet our business needs and support our te
 * Created iOS/Android phone app prototypes with PhoneGap
 
 **Web Developer** | CB Software Systems
-**core technologies: HTML/CSS, Javascript, jQuery (library), Wordpress***
+
+***core technologies: HTML/CSS, Javascript, jQuery (library), Wordpress***
 
 _July 2009 - May 2012_
 
